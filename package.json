@@ -6,7 +6,9 @@
   "type" : "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "observer1": "tsx index.ts"
+    "observer1": "tsx index.ts",
+    "observer2": "tsx ./product-observer/index-P.ts"
+    
   },
   "author": "",
   "license": "ISC",
